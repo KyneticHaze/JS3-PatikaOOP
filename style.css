@@ -1,0 +1,38 @@
+.bg-custom {
+    background-color: #f1f5f8;
+}
+
+.banner {
+    font-family: 'Great Vibes', cursive;
+    font-size: 3rem;
+    color: #ff6a23;
+}
+
+/*  Menu Items */
+
+.menu-items {
+    display: flex;
+    margin: 20px 0;
+}
+
+.photo {
+    width: 30%;
+    height: 175px;
+    object-fit: cover;
+    border: 0.25rem solid black;
+    border-radius: 10px;
+}
+
+.menu-info {
+    margin-left: 20px;
+    width: 100%;
+}
+.menu-title {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1.7px solid black;
+}
+
+.menu-title h4 {
+    color: #e00a00;
+}
